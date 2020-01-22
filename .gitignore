@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+saved_models/keypoints_adam_smoothl1_0.pt
